@@ -7,9 +7,7 @@ function useCurrencyInfo(currency) {
         .then((res)=>res.json)
         .then((res) => setData(res[currency]))
     },[currency])
-  return (
-    <div>useCurrencyInfo</div>
-  )
+  return data
 }
 
 export default useCurrencyInfo
