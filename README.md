@@ -1,22 +1,22 @@
-## Cryptocurrency Converter
+# Cryptocurrency Converter
 
 This project is a simple cryptocurrency converter built with React, Tailwind CSS, and Vite. It allows users to convert one cryptocurrency to another based on the latest exchange rates fetched from an external API.
 
-### Features
+## Features
 
 - **Currency Conversion**: Users can input the amount of cryptocurrency they want to convert and select the currencies they want to convert from and to.
 - **Dynamic Exchange Rates**: The app fetches the latest exchange rates from an external API to ensure accurate conversion.
 - **Swap Functionality**: Users can quickly swap the conversion currencies with a single click.
 - **Responsive Design**: The app is designed to be responsive and work seamlessly across different screen sizes.
 
-### Usage
+## Usage
 
 1. **Input the Amount**: Enter the amount of cryptocurrency you want to convert in the "From" input box.
 2. **Select Currencies**: Choose the currency you want to convert from and to using the dropdown menus.
 3. **Swap**: Optionally, you can swap the currencies by clicking the "Swap" button.
 4. **Convert**: Click the "Convert" button to see the converted amount in the selected currency.
 
-### Installation
+## Installation
 
 To run this project locally, follow these steps:
 
