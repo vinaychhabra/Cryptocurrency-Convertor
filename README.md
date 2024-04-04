@@ -1,5 +1,4 @@
-# Cryptocurrency Converter | (Live)[https://cryptocurrency-convertor-six.vercel.app/]
-
+# Cryptocurrency Converter | [Live](https://cryptocurrency-convertor-six.vercel.app/)
 This project is a simple cryptocurrency converter built with React, Tailwind CSS, and Vite. It allows users to convert one cryptocurrency to another based on the latest exchange rates fetched from an external API.
 
 ## Features
