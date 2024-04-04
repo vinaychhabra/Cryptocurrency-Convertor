@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/vinaychhabra/Cryptocurrency-Convertor.git
-   cd currency-converter
+   cd cryptocurrency-converter
     ```
 2. Install dependencies:
     ```bash
